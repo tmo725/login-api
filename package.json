@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@react-oauth/google": "^0.12.1",
+    "bcrypt": "^5.1.1",
+    "cookie": "^0.6.0",
+    "cookie-session": "^2.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "google-auth-library": "^9.9.0",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
+    "mysql2": "^3.9.4",
+    "node-localstorage": "^3.0.5",
+    "passport": "^0.7.0",
+    "passport-google-oauth2": "^0.2.0",
+    "passport-google-oauth20": "^2.0.0",
+    "sanitize-html": "^2.13.0",
+    "session": "^0.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "login-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
